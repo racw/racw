@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img height="200" src="img/github-header-image.png"  />
-</div>
+!["img/github-header-image2.png"](https://www.linkedin.com/in/racw3rd/)
+
 
 ###
 
