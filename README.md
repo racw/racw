@@ -21,11 +21,14 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 <!-- <div align="center"> -->
-![https://www.linkedin.com/in/racw3rd/](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
-  <!-- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
+<!-- ![https://www.linkedin.com/in/racw3rd/](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge) -->
+<a href="https://www.linkedin.com/in/racw3rd/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
 <!-- </div> -->
+
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=jhtml,css,js,php,laravel,react,vue,nextjs,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,nextjs,mysql,mongodb)](https://skillicons.dev)
 <!-- 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
