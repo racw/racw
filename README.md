@@ -14,20 +14,19 @@ Here are some ideas to get you started:
 -->
 ![Github Header Image](/img/github-header-image2.png)
 
-
-###
-
-<!-- <div align="center"> -->
-![https://www.linkedin.com/in/racw3rd/] (https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
-  <!-- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
-<!-- </div> -->
-
 ### About Me
+- 💼 I'm currently looking for a job as a fullstack developer
 - 🌱 I’m currently learning Next, Golang, Vue and React
 
+### Connect with me:
 
+<!-- <div align="center"> -->
+![https://www.linkedin.com/in/racw3rd/](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
+  <!-- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
+<!-- </div> -->
 ### Skills
-
+[![My Skills](https://skillicons.dev/icons?i=jhtml,css,js,php,laravel,react,vue,nextjs,mysql,mongodb)](https://skillicons.dev)
+<!-- 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+</div> -->
 
 ###
 
